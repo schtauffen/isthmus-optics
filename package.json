@@ -1,6 +1,6 @@
 {
   "name": "@isthmus/optics",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "description": "A small set of optics",
   "main": "cjs/index.js",
   "module": "lib/index.js",
